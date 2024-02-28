@@ -1,0 +1,10 @@
+﻿{
+  "Modules": [
+    {
+      "AppId": "d14c9ce4-b170-4def-bf39-1c235fb5536f",
+      "Name": "ALStatements",
+      "Publisher": "Default Publisher",
+      "Version": "1.0.0.0"
+    }
+  ]
+}

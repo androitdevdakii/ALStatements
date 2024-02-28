@@ -1,0 +1,12 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: N:Module::ALStatements
+  name: ALStatements
+  summary: ''
+  fqName: ALStatements by Default Publisher (1.0.0.0)
+  href: reference/alstatements/Module/ALStatements.html
+- uid: O:Page::Statements_Card
+  name: "\"Statements Card\""
+  fqName: "\"Statements Card\""
+  href: reference/alstatements/Page/Statements-Card.html

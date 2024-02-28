@@ -1,0 +1,26 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"Statements Card"'
+alId: ID 50112
+baseKind: Page
+kind: Page
+parent: 'N:Module::ALStatements::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Page](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-page-object)'
+objectProperties:
+- name: PageType
+  value: Card
+  promoted: true
+- name: ApplicationArea
+  value: '#All'
+  promoted: false
+- name: UsageCategory
+  value: Documents
+  promoted: false
+- name: Caption
+  value: Statements Card
+  promoted: false
+commentId: O:Page::Statements Card
+uid: O:Page::Statements_Card
+name: '"Statements Card"'

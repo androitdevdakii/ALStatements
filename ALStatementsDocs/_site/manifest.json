@@ -1,0 +1,67 @@
+{
+  "source_base_path": "C:/Users/ASL-D1/Documents/AL/ALStatements/ALStatementsDocs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/alstatements/Module/ALStatements.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/alstatements/Module/ALStatements.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/alstatements/Page/Statements-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/alstatements/Page/Statements-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/alstatements/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/alstatements/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/alstatements/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
